@@ -1,4 +1,4 @@
-# Kaggle-Fraud-Detection---Autoencoder
+# Kaggle-Fraud-DetectionAutoencoder
 
 
 "Autoencoding" is a data compression algorithm where the compression and decompression functions are 
