@@ -9,4 +9,5 @@
 References:
 
 https://blog.keras.io/building-autoencoders-in-keras.html
+
 http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
